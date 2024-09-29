@@ -21,3 +21,4 @@ This project is a simple homepage for Qassim City. It showcases the city's histo
 
 - HTML
 - CSS
+- JavaScript
